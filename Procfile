@@ -1,1 +1,1 @@
-web: gunicorn craiglist_example.wsgi
+web: gunicorn codedaddies_list.wsgi
